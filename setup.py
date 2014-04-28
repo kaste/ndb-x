@@ -8,7 +8,7 @@ setup(
     license='MIT',
     author='herr kaste',
     author_email='herr.kaste@gmail.com',
-    url='',
+    url='https://github.com/kaste/ndb-x',
     platforms=['linux', 'osx', 'win32'],
     packages = ['ndbx'],
     zip_safe=False,
