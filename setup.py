@@ -19,8 +19,6 @@ setup(
     'Operating System :: POSIX',
     'Operating System :: Microsoft :: Windows',
     'Operating System :: MacOS :: MacOS X',
-    'Topic :: Software Development :: Testing',
-    'Topic :: Software Development :: Quality Assurance',
     'Topic :: Utilities',
     'Programming Language :: Python',
     ],
